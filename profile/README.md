@@ -4,7 +4,7 @@
 
 In today's world, ensuring safety at home requires more than traditional surveillance. **ZIGGS** introduces an audio-based anomaly detection system that monitors environmental sounds in real-time. Leveraging machine learning and LG’s IoT devices, this system can detect unusual sounds, such as distress calls, loud noises, or periods of silence that could indicate emergencies. It tailors responses to individual household environments, providing a personalized safety net.
 
-### 🔑 Key Use Cases
+### Key Use Cases
 - **Elderly care** - Alerts for unusual sounds indicating potential health emergencies.
 - **Child monitoring** - Detection of concerning noises or extended silences.
 - **Pet monitoring** - Notifications for pet disturbances or accidents.
