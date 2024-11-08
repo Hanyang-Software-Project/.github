@@ -17,10 +17,10 @@ Traditional home monitoring systems lack effective audio detection capabilities,
 
 | Name               | Dept.                       | E-mail                         | Role                  |
 |--------------------|-----------------------------|--------------------------------|------------------------|
-| Jan Imhof          | Computer Science Dep.       | uwxdb@student.kit.edu          | Front-End Developer   |
+| Adrian Samuel      | Computer Science Dep.       | uwxdb@student.kit.edu          | Front-End Developer   |
 | Ivan Milosavljevic | Computer Science Dep.       | ivmi61663@eleve.isep.fr        | Back-End Developer    |
 | Nicolas Busquet    | Computer Science Dep.       | nrb.busquet@gmail.com          | Front-End Developer   |
-| Adrian Samuel      | Computer Science Dep.       | aobermuhlner@gmail.com         | AI Developer          |
+| Jan Imhof          | Computer Science Dep.       | aobermuhlner@gmail.com         | AI Developer          |
 
 ## 📂 Documentation 
 
