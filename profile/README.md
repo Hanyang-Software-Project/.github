@@ -22,7 +22,7 @@ Traditional home monitoring systems lack effective audio detection capabilities,
 | Nicolas Busquet    | Computer Science Dep.       | nrb.busquet@gmail.com          | Front-End Developer   |
 | Adrian Samuel      | Computer Science Dep.       | aobermuhlner@gmail.com         | AI Developer          |
 
-## 📂 Documentation & Presentation
+## 📂 Documentation 
 
 - [Document](https://github.com/Hanyang-Software-Project/documentation)
 
