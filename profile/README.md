@@ -17,7 +17,7 @@ In today's world, ensuring safety at home requires more than traditional surveil
 Traditional home monitoring systems lack effective audio detection capabilities, often missing critical events or generating false alarms. **ZIGGS** addresses this by combining IoT devices and machine learning to monitor sounds, adapting over time to each home’s unique acoustic environment for accurate alerts.
 
 ## 💻 Architecture Overview
-![Architecture Overview](../ARCH.png)
+![Architecture Overview](../architecture.png)
 
 
 ## 👥 Team Members
