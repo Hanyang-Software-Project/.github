@@ -1,5 +1,8 @@
 # 📢 ZIGGS - Anomaly Detection at Home Based on Sound Systems
 
+## 🎥 Demo Video (tbd)
+🔗 **App Demo Video** : 
+
 ## 📝 Proposal
 
 In today's world, ensuring safety at home requires more than traditional surveillance. **ZIGGS** introduces an audio-based anomaly detection system that monitors environmental sounds in real-time. Leveraging machine learning and LG’s IoT devices, this system can detect unusual sounds, such as distress calls, loud noises, or periods of silence that could indicate emergencies. It tailors responses to individual household environments, providing a personalized safety net.
