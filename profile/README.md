@@ -34,8 +34,4 @@ Traditional home monitoring systems lack effective audio detection capabilities,
 - [Document](https://github.com/Hanyang-Software-Project/documentation)
 - [Presentation PPT](tbd)
 
-## 🔗 Links
-**Youtube:** [Demo video] (tbd)
-
-
 
