@@ -1,7 +1,6 @@
 # 📢 ZIGGS - Anomaly Detection at Home Based on Sound Systems
 
-## 🎥 Demo Video (tbd)
-🔗 **App Demo Video** : 
+[![Demo Video](https://img.youtube.com/vi/p-gKxO0KGQQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=p-gKxO0KGQQ)
 
 ## 📝 Proposal
 
