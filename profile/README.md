@@ -1,6 +1,9 @@
 # 📢 ZIGGS - Anomaly Detection at Home Based on Sound Systems
 
-[![Showcase Video](https://img.youtube.com/vi/sq51JLg2txw/0.jpg)](https://www.youtube.com/watch?v=sq51JLg2txw)
+<a href="https://www.youtube.com/watch?v=sq51JLg2txw">
+  <img src="https://img.youtube.com/vi/sq51JLg2txw/0.jpg" alt="Showcase Video" width="1100"/>
+</a>
+
 
 ## 📝 Proposal
 
