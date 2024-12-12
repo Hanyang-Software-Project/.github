@@ -1,6 +1,6 @@
 # 📢 ZIGGS - Anomaly Detection at Home Based on Sound Systems
 
-[![Demo Video](https://img.youtube.com/vi/p-gKxO0KGQQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=p-gKxO0KGQQ)
+[![Showcase Video](https://www.youtube.com/watch?v=sq51JLg2txw)
 
 ## 📝 Proposal
 
@@ -30,7 +30,5 @@ Traditional home monitoring systems lack effective audio detection capabilities,
 
 ## 📂 Documentation 
 
-- [Document](https://github.com/Hanyang-Software-Project/documentation)
-- [Presentation PPT](https://github.com/Hanyang-Software-Project/documentation)
-
-
+- [Document](https://github.com/Hanyang-Software-Project/Documentation/blob/main/Ziggs-Software-Engineering-Project.pdf)
+- [Presentation PPT](https://github.com/Hanyang-Software-Project/Documentation/blob/main/Ziggs_presentation.pdf)
